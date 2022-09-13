@@ -1,3 +1,5 @@
+package RoyDTO;
+
 public class Test1 {
     private String s;
     private String t;
